@@ -13,7 +13,7 @@ Un programa que simula un deck de 52 cartas de poker con las siguientes operacio
 
 ## Tecnología
 - Java JDK 11
-- Programación orientada a objetos
+- Programación en Java
 - Uso de Collections (ArrayList) para manejo del deck
 
 ## Estructura del proyecto
